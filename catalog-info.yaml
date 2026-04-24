@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: ReactiveProgramming
+  annotations:
+    github.com/project-slug: MohammedKaleemullah/ReactiveProgramming
+spec:
+  type: other
+  lifecycle: unknown
+  owner: MohammedKaleemullah
